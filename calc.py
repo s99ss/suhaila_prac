@@ -1,6 +1,6 @@
 num_1 = int(input("enter 1st number"))
 num_2 = int(input("enter 2nd number"))
-operation = input("select + or - or * or / or ** or !:")
+operation = input("select + or - or * or / or ** or ! or absolute:")
 result = 0
 '''
 print(num_1)
@@ -22,5 +22,9 @@ elif operation== "!" :
 
     for i in range(1, num_1+1):
         result=result*i
+
+
+elif operation== "absolute":
+    result= abs(num_1)
 
 print (" result is : " , result )
