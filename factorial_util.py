@@ -5,4 +5,4 @@ result = 1
 for i in range(1, user_input+1):
   result = result * i
 
-print(result)
+print(f"Result is: {result}")
