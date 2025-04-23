@@ -6,3 +6,6 @@ result = 0
 print(num_1)
 print(num_2)
 
+if operation== "absolute":
+    result= abs(num_1)
+    
