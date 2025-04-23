@@ -9,3 +9,4 @@ print(num_1)
 print(num_2)
 print(result)
 
+print(num_1 * num_2)
