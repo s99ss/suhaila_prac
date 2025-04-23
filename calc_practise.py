@@ -19,6 +19,4 @@ elif operation== "-" :
 elif operation== "+" :
     result = num_1 + num_2
 elif operation== "/" :
-    result = num_1 / num_2
-
-print (" result is : " , result )
+    result = num_1 / nuis : " , result )
