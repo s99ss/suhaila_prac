@@ -16,5 +16,9 @@ elif operation == "%":
     result = num_1 % num_2
 elif operation== "-" :
     result = num_1 - num_2
+elif operation== "+" :
+    result = num_1 + num_2
+elif operation== "/" :
+    result = num_1 / num_2
 
 print (" result is : " , result )
