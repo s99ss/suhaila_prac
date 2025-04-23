@@ -37,4 +37,4 @@ elif operation == "&":
 elif operation == "^":
     result = math.pow(num_1, num_2)
 
-print (" result is : " , result )
+print ("Result is : " , result)
