@@ -6,3 +6,7 @@ result = 0
 print(num_1)
 print(num_2)
 
+x = 2
+z = 5
+substraction = z - x
+print(substraction)
