@@ -9,6 +9,8 @@ print(num_2)
 
 if operation== "absolute":
     result= abs(num_1)
-    
-print(num_1 * num_2)
 
+elif operation== "*" :
+    result = num_1 * num_2
+
+print (" result is : " , result )
